@@ -31,10 +31,10 @@ def answer_question(query):
     response = qa_chain.invoke(query)
     return response['result']
 
-# Test with a sample question
-query = "what is the side effects of taking prednisone?"
-answer = answer_question(query)
-print(answer)
+# # Test with a sample question
+# query = "what is the side effects of taking prednisone?"
+# answer = answer_question(query)
+# print(answer)
 
 # Chainlit function to handle user messages
 @cl.on_message
