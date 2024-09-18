@@ -1,5 +1,11 @@
 # ML_Assignment
 # Level 1
+
+
+https://github.com/user-attachments/assets/e0ef9e40-d73e-4785-9940-130ab74a11ca
+
+
+
 - Documentation:
 - a. Approach
 Data Preparation: A subset of the 20 Newsgroups dataset was used, focusing on a single topic. The text was preprocessed by removing headers, footers, and unnecessary metadata to clean the dataset.
