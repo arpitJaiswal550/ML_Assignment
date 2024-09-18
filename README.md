@@ -18,3 +18,9 @@ Retrieval Mechanism: The RAG approach requires a robust method for document retr
 Scalability: For larger datasets, consider adding more efficient retrieval mechanisms (e.g., FAISS).
 Fine-Tuning LLM: With more time and resources, fine-tuning a LLM model on the 20 Newsgroups dataset could improve the model’s performance for domain-specific questions.
 Enhancing the UI: Consider using more advanced front-end frameworks (like Streamlit or Flask) to improve the user interface.
+
+# Level 2
+
+
+https://github.com/user-attachments/assets/0b5d1bf6-4246-42d5-a657-6cfa24b38302
+
